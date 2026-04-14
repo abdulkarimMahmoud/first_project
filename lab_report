@@ -2,4 +2,13 @@ mkdir my- project
 cd my-project
 touch lab_regort
 ls 
+=======================
+git init
 
+$ git add .
+
+git commit -m "create project"
+
+git remote add origin https://github.com/abdulkarimMahmoud/task_7.git
+
+git push origin master
