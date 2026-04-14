@@ -1,0 +1,5 @@
+mkdir my- project
+cd my-project
+touch lab_regort
+ls 
+
