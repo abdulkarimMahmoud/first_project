@@ -1,0 +1,5 @@
+.Counter , .TodoList , .Anecdotes , .Unicafe {
+    background-color: beige;
+    text-align: center;
+    padding: 5px;
+}
